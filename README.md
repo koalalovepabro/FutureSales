@@ -19,3 +19,6 @@
 평가 척도 | MAE
 대회 기간 | 2019년 7월 11일 ~ 2019년 8월 31일
 대회 참여팀 | 292팀
+
+| 'DB 분석가' 팀의 코드 참고<br>
+| 출처: https://github.com/koalalovepabro/dacon/tree/master/ch04
